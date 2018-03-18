@@ -1,0 +1,2 @@
+This is s text file that will be read from
+both asynchronously and synchronously.
